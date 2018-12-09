@@ -64,7 +64,7 @@ All of this is just for me contacting you, not being on-call or being paged by p
 - Be a good representative of our values
 
 
-##To You
+## To You
 It does not matter if we are on the same team or not, If you need help, want to validate an idea or If you feel I can do my job better come and talk to me.
 I am a big believer in the mentorship. Mentorship is a two-way street, we all need to have a mentor regardless of our experience.
  
