@@ -107,9 +107,9 @@ Please be on Time and provide followings in the meeting invite:
 
 I can:
 
-- Remove blockers
-- Give or Find context
-- Find right person to help you
+- Remove blockers.
+- Give or Find context.
+- Find a right person to help you.
 
 
 ## I wish I had a crystal ball! 
@@ -121,7 +121,7 @@ Some team building sessions helped me in the past to know my team, their day to 
 sessions like:
 
 - Two truth and a lie
-- Market place of Skills
+- The marketplace of Skills
 - Journey Lines
 
 
