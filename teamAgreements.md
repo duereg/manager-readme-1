@@ -1,4 +1,4 @@
-# Our current Team agreement
+# Our current Team agreements
 
 - FUN - Lets have fun, every day if possible, but we will leave the office once per month and do something fun together. We celebrate our successes.
 
