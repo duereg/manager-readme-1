@@ -53,3 +53,20 @@ All of this is just for me contacting you, not being on-call or being paged by p
 - Promote my team members and celebrate their success.
 - Represent our team to the organization.
 
+
+## To My Company
+
+- Work with other managers/leaders to come up with a long-term vision.
+- Manage cross project priorities
+- Initiate organization transformation
+- Help to improve company culture
+- Attract & retain positive, motivated & diverse talents.
+- Be a good representative of our values
+
+
+##To You
+It does not matter if we are on the same team or not, If you need help, want to validate an idea or If you feel I can do my job better come and talk to me.
+I am a big believer in the mentorship. Mentorship is a two-way street, we all need to have a mentor regardless of our experience.
+ 
+Seeking out a mentor/mentee? Let' s grab a coffee.
+
