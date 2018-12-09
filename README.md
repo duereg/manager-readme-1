@@ -105,7 +105,7 @@ Please **be on Time** and provide followings in the meeting invite:
 # How I can help you?
 
 
-I can:
+I will try:
 
 - Remove blockers.
 - Give or Find context.
