@@ -40,4 +40,16 @@ All of this is just for me contacting you, not being on-call or being paged by p
   - Guidelines used by the team to describe how they want to work together
   - We try to review our agreements quarterly or when we have a new team member join
   - [Our current team aggrements](./teamAggrements.md)
+  
+
+# My Responsibilities
+
+## To My Team
+
+- Create Positive working environment.
+- Help my team to achieve their personal & professional goals.
+- Make sure we give and receive productive feedbacks.
+- Be an [umbrella](https://blog.usejournal.com/the-umbrella-theory-of-management-6d062ccc0d88)
+- Promote my team members and celebrate their success.
+- Represent our team to the organization.
 

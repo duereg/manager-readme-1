@@ -18,8 +18,8 @@
 
 - Meetings: No agenda, no attenda. Start and end on time. Be focused and participate. 
 
-- Stand-up at 8:15
+- Stand-up at 8:15 PST.
 
-- Ask for and offer help
+- Ask for and offer help.
 
 - We are a team, any individuals work belongs to the entire team.
