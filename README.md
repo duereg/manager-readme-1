@@ -122,7 +122,7 @@ sessions like:
 
 - [Two truth and a lie](https://github.com/elhamrastkhadiv/orgtransformation/blob/master/offsite/sessions/Two%20truths%20and%20one%20lie.md)
 - [The marketplace of Skills](https://github.com/elhamrastkhadiv/orgtransformation/blob/master/offsite/sessions/Market%20Place%20of%20Skills.md)
-- Journey Lines
+- [Journey Lines](https://github.com/elhamrastkhadiv/orgtransformation/blob/master/offsite/sessions/JourneyLines.md)
 
 
 
