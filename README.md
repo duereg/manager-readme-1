@@ -2,7 +2,7 @@
 
 Welcome to my readme, I am glad you are here. I hope the information on this page help us to work more effectively together.
 
-#About me
+# About me
 
 I am an athlete and adventure-seeker and I love traveling. I grew up in Iran, lived in the Uk for more than Six years and then moved to the US. I am proud to call these three countries my home.
 
@@ -84,7 +84,7 @@ My calendar is publicly visible, feel free to schedule one.
 
 Blocked & Can not find any slot? Come and talk to me or send me a message I will try to schedule a time.
 
-Please be on Time and provide followings in the meeting invite:
+Please **be on Time** and provide followings in the meeting invite:
 
 - Meeting agenda
 - Location (meeting room or a link for remote meetings)
@@ -93,7 +93,7 @@ Please be on Time and provide followings in the meeting invite:
 
 # How can you help me?
 
-- Be the best at what you do
+- Be the **best** at what you do
 - Bring your whole self to work
 - Ask for help if you need one
 - Help your teammate
@@ -109,7 +109,7 @@ I can:
 
 - Remove blockers.
 - Give or Find context.
-- Find a right person to help you.
+- Find the right person to help you.
 
 
 ## I wish I had a crystal ball! 
