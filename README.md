@@ -71,7 +71,7 @@ Seeking out a mentor/mentee? Let' s grab a coffee.
 
 
 
-#1:1s
+# 1:1s
 
 - It is for you
 - It is not status update unless you want to
@@ -89,5 +89,17 @@ Please be on Time and provide followings in the meeting invite:
 - Meeting agenda
 - Location (meeting room or a link for remote meetings)
 - Any related documents
+
+
+# How can you help me
+
+- Be the best at what you do
+- Bring your whole self to work
+- Ask for help if you need one
+- Help your team mate
+- Give precise status update about tasks
+- Be better than me
+- Challenge me and Let me know if I can make your life easier.
+
 
 
