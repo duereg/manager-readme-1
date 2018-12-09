@@ -96,10 +96,35 @@ Please be on Time and provide followings in the meeting invite:
 - Be the best at what you do
 - Bring your whole self to work
 - Ask for help if you need one
-- Help your team mate
-- Give precise status update about tasks
+- Help your teammate
+- Give a precise status update about tasks in progress
 - Be better than me
 - Challenge me and Let me know if I can make your life easier.
+
+
+# How I can help you?
+
+
+I can:
+
+- Remove blockers
+- Give or Find context
+- Find right person to help you
+
+
+## I wish I had a crystal ball! 
+
+I can not help you without getting to know you or you talking to me.
+
+Some team building sessions helped me in the past to know my team, their day to day challenges and motivations, 
+
+sessions like:
+
+- Two truth and a lie
+- Market place of Skills
+- Journey Lines
+
+
 
 
 
