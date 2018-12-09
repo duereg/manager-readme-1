@@ -91,7 +91,7 @@ Please be on Time and provide followings in the meeting invite:
 - Any related documents
 
 
-# How can you help me
+# How can you help me?
 
 - Be the best at what you do
 - Bring your whole self to work
