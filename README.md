@@ -57,7 +57,7 @@ All of this is just for me contacting you, not being on-call or being paged by p
 ## To My Company
 
 - Work with other managers/leaders to come up with a long-term vision.
-- Manage cross project priorities
+- Manage cross-project priorities
 - Initiate organization transformation
 - Help to improve company culture
 - Attract & retain positive, motivated & diverse talents.
@@ -65,8 +65,30 @@ All of this is just for me contacting you, not being on-call or being paged by p
 
 
 ## To You
-It does not matter if we are on the same team or not, If you need help, want to validate an idea or If you feel I can do my job better come and talk to me.
-I am a big believer in the mentorship. Mentorship is a two-way street, we all need to have a mentor regardless of our experience.
- 
+Working in on the same project? or not? If you need help, want to validate an idea or If you feel I can do my job better come and talk to me. I am a big believer in the mentorship. Mentorship is a two-way street, we all need to have a mentor regardless of our experience.
+
 Seeking out a mentor/mentee? Let' s grab a coffee.
+
+
+
+#1:1s
+
+- It is for you
+- It is not status update unless you want to
+
+We will have a scheduled 1:1s.
+
+#Scheduling a  meeting
+
+My calender is publicly visible, feel free to book a meeting.
+
+Blocked & Can not find any slot? come and talk to me or send me message I will try to schedule one.
+
+
+Please be on Time and provide followings in the meeting invite:
+
+- Meeting agenda
+- Location (meeting room or a link for remote meetings)
+- Any related documents
+
 
