@@ -39,5 +39,5 @@ All of this is just for me contacting you, not being on-call or being paged by p
 - Follow team agreements
   - Guidelines used by the team to describe how they want to work together
   - We try to review our agreements quarterly or when we have a new team member join
-  - [Our current team aggrement](./teamAggrements.md)
+  - [Our current team aggrements](./teamAggrements.md)
 
