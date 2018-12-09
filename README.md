@@ -28,3 +28,17 @@ If it is urgent, feel free to call me anytime.
 I do not expect my team to work during weekend or responding to my messages.
 
 All of this is just for me contacting you, not being on-call or being paged by production systems.
+
+
+# My Team Values
+- Respect and value diversity
+- Be approachable
+- Be internal consultant and challenge existing decisions & process
+- Give and receive meaningful feedback
+- Believe that Everyone in the team do their best with the knowledge,abilities and resources.
+- Everyone has equal voice and vote regardless of their seniority.
+- Follow team agreements
+  - Guidelines used by the team to describe how they want to work together
+  - We try to review our agreements quarterly or when we have a new team member join
+  - [Our current team aggrement](link to current team agreements)
+
