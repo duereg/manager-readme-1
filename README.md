@@ -65,7 +65,7 @@ All of this is just for me contacting you, not being on-call or being paged by p
 
 
 ## To You
-Working in on the same project? or not? If you need help, want to validate an idea or If you feel I can do my job better come and talk to me. I am a big believer in the mentorship. Mentorship is a two-way street, we all need to have a mentor regardless of our experience.
+Working in on the same project? Or not? If you need help, want to validate an idea or If you feel I can do my job better come and talk to me. I am a big believer in the mentorship. Mentorship is a two-way street, we all need to have a mentor regardless of our experience.
 
 Seeking out a mentor/mentee? Let' s grab a coffee.
 
@@ -78,12 +78,11 @@ Seeking out a mentor/mentee? Let' s grab a coffee.
 
 We will have a scheduled 1:1s.
 
-#Scheduling a  meeting
+# Scheduling a  meeting
 
-My calender is publicly visible, feel free to book a meeting.
+My calendar is publicly visible, feel free to schedule one.
 
-Blocked & Can not find any slot? come and talk to me or send me message I will try to schedule one.
-
+Blocked & Can not find any slot? Come and talk to me or send me a message I will try to schedule a time.
 
 Please be on Time and provide followings in the meeting invite:
 
