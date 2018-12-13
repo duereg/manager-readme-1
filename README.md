@@ -1,20 +1,19 @@
-# My Manger README
-Welcome to my readme, I am glad you are here. I hope the information on this page helps us to work more effectively together.
+# My Manager README
+Welcome to my readme, I am glad you are here. I hope this information helps us to work more effectively together.
 
 # About me
-I am an athlete and adventure-seeker and I love traveling. I grew up in Iran, lived in the Uk for more than six years and then moved to the US. I am proud to call these three countries my home.
+I am an athlete, adventure-seeker and I love traveling. I grew up in Iran, lived in the Uk for six years and then moved to the US. I am proud to call these three countries my home.
 
 Weekends or after work you can find me:
 
-- In Nature running, cycling, swimming or skiing.
+- In nature running, cycling, swimming or skiing.
 - Traveling.
 - Attending a conference/meet-up.
-- Spending time with friends,colleagues or family.
-- Sitting in a coffee shop and reading/learning  & trying to be better at what I do.
-- Check things off my bucket list.
+- Spending time with friends, colleagues or family.
+- Sitting in a coffee shop and reading/learning & trying to be better at what I do.
+- Checking things off my bucket list.
 
-
-I love good food, but good company is more important to me, I only cook Persian food if I have more than six friends over especially if it is [Ghormeh Sabzi](https://en.wikipedia.org/wiki/Ghormeh_sabzi).
+I love good food, but good company is more important to me. I only cook Persian food if I have more than six friends over especially if it is [Ghormeh Sabzi](https://en.wikipedia.org/wiki/Ghormeh_sabzi).
 
 
 # Work-Life Balance
@@ -25,8 +24,7 @@ If it is urgent, feel free to call me anytime.
 
 I do not expect my team to work during the weekend or respond to my messages.
 
-All of this is just for me contacting you, not being on-call or being paged by production systems.
-
+All of this is just for me contacting you, not being on-call or being paged for production outages.
 
 # My Team Values
 - Respect and value diversity.
@@ -61,22 +59,22 @@ All of this is just for me contacting you, not being on-call or being paged by p
 
 
 ## To You
-Working in on the same project? Or not? If you need help, want to validate an idea or If you feel I can do my job better come and talk to me. I am a big believer in mentorship. Mentorship is a two-way street, we all need to have a mentor regardless of our experience.
+Working on the same project? Or not? If you need help, want to validate an idea or if you feel I can do my job better come and talk to me. I am a big believer in mentorship. Mentorship is a two-way street, we all need to have a mentor regardless of our experience.
 
-Seeking out a mentor/mentee? Let' s grab a coffee.
+Seeking out a mentor/mentee? Let's grab a coffee.
 
 # 1:1s
 - It is for you.
-- It is not status update unless you want to be.
+- It is not status update unless you want it to be.
 
-We will have regular scheduled 1:1s.
+We will have regularly scheduled 1:1s.
 
-# Scheduling a  meeting
+# Scheduling a meeting
 My calendar is publicly visible, feel free to schedule one.
 
-Blocked & Can not find any slot? Come and talk to me or send me a message I will try to schedule a time.
+Blocked & cannot find a slot? Come and talk to me or send me a message I will try to schedule a time.
 
-Please **be on Time** and provide following in the meeting invite:
+Please **be on time** and provide following in the meeting invite:
 
 - Meeting agenda.
 - Location (meeting room or a link for remote meetings).
@@ -86,11 +84,11 @@ Please **be on Time** and provide following in the meeting invite:
 # How can you help me?
 - Be the **best** at what you do.
 - Bring your whole self to work.
-- Ask for help if you need one.
-- Help your teammate.
+- Ask for help if you need it.
+- Help your teammates.
 - Give a precise status update about tasks in progress.
 - Be better than me.
-- Challenge me and Let me know if I can make your life easier.
+- Challenge me and let me know if I can make your life easier.
 
 
 # How I can help you?
