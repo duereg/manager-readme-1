@@ -74,7 +74,7 @@ My calendar is publicly visible, feel free to schedule one.
 
 Blocked & cannot find a slot? Come and talk to me or send me a message I will try to schedule a time.
 
-Please **be on time** and provide following in the meeting invite:
+Please **be on time** and provide the following in the meeting invite:
 
 - Meeting agenda.
 - Location (meeting room or a link for remote meetings).
